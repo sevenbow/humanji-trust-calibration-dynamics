@@ -1,0 +1,26 @@
+STATISTICAL ANALYSIS: HIM-15 Trust Calibration
+
+N (Study1) = 1500 across 10 sessions, 150 subjects
+
+Final session trust by condition (Study 1):
+  Very High/Low: M_trust=4.40, M_brier=0.1824
+  Very High/High: M_trust=4.22, M_brier=0.1251
+  High/Low: M_trust=4.06, M_brier=0.1920
+  High/High: M_trust=5.02, M_brier=0.0876
+  Moderate/Low: M_trust=2.05, M_brier=0.3092
+  Moderate/High: M_trust=4.52, M_brier=0.0892
+  Low/Low: M_trust=5.22, M_brier=0.0969
+  Low/High: M_trust=4.55, M_brier=0.0626
+  Variable/Low: M_trust=6.03, M_brier=0.1290
+  Variable/High: M_trust=3.40, M_brier=0.0931
+
+Meta-Analysis (Study 3): k=34
+Pooled effect: d=-0.225 (SE=0.0253)
+95% CI: [-0.2749, -0.1759]
+  Aviation: k=5, pooled d=-0.262
+  Medical: k=5, pooled d=-0.179
+  Automotive: k=5, pooled d=-0.222
+  Cybersecurity: k=5, pooled d=-0.259
+  Finance: k=5, pooled d=-0.136
+  Manufacturing: k=5, pooled d=-0.196
+  HCI: k=4, pooled d=-0.333

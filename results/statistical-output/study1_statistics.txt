@@ -1,0 +1,37 @@
+======================================================================
+STATISTICAL ANALYSIS REPORT: HIM-15 Trust Calibration Dynamics
+Generated: 2026-05-10 04:29:52
+======================================================================
+
+### Study 1: Longitudinal Trust Trajectories
+
+  Very High / Low transparency: Final trust = 4.40, Final Brier = 0.1824
+  Very High / High transparency: Final trust = 4.22, Final Brier = 0.1251
+  High / Low transparency: Final trust = 4.06, Final Brier = 0.1920
+  High / High transparency: Final trust = 5.02, Final Brier = 0.0876
+  Moderate / Low transparency: Final trust = 2.05, Final Brier = 0.3092
+  Moderate / High transparency: Final trust = 4.52, Final Brier = 0.0892
+  Low / Low transparency: Final trust = 5.22, Final Brier = 0.0969
+  Low / High transparency: Final trust = 4.55, Final Brier = 0.0626
+  Variable / Low transparency: Final trust = 6.03, Final Brier = 0.1290
+  Variable / High transparency: Final trust = 3.40, Final Brier = 0.0931
+
+### Study 3: Meta-Analysis Results
+
+Number of studies: 34
+Overall pooled effect size (calibration): -0.225 (SE: 0.0253)
+95% CI: [-0.2749, -0.1759]
+
+By domain:
+  Aviation       : k=5, pooled d=-0.262
+  Medical        : k=5, pooled d=-0.179
+  Automotive     : k=5, pooled d=-0.222
+  Cybersecurity  : k=5, pooled d=-0.259
+  Finance        : k=5, pooled d=-0.136
+  Manufacturing  : k=5, pooled d=-0.196
+  HCI            : k=4, pooled d=-0.333
+
+By automation type:
+  AI-Assisted         : k=12, pooled d=-0.302
+  Fully Automated     : k=11, pooled d=-0.138
+  Semi-Automated      : k=11, pooled d=-0.237

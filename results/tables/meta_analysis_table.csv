@@ -1,0 +1,10 @@
+,effect_size_calibration,effect_size_calibration,n_participants,se
+,mean,std,sum,mean
+domain,,,,
+Automotive,-0.2548,0.1127,770,0.1622
+Aviation,-0.3132,0.2754,770,0.1622
+Cybersecurity,-0.2526,0.0794,310,0.2332
+Finance,-0.1812,0.0979,670,0.1622
+HCI,-0.3348,0.0595,590,0.1568
+Manufacturing,-0.1836,0.1862,720,0.1652
+Medical,-0.1622,0.1052,400,0.2032
